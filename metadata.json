@@ -1,0 +1,6 @@
+{
+  "name": "Archetype SaaS Dashboard Suite",
+  "description": "Interactive multi-industry SaaS dashboard template suite with real-time business telemetry, high-fidelity analytics visualizations, and customizable executive metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
